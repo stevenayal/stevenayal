@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## 🚀 About Me
+
+![stevenayal's Stats](https://github-readme-stats.vercel.app/api?username=stevenayal&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stevenayal&theme=darcula&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![stevenayal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenayal&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 <!--
 **stevenayal/stevenayal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
