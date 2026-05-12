@@ -1,23 +1,49 @@
-## Hi there 👋
+# Steven Ayala
 
-## 🚀 About Me
+**QA Engineer · Fundador de [AIQUAA](https://aiquaa.com) · Paraguay 🇵🇾**
 
-![stevenayal's Stats](https://github-readme-stats.vercel.app/api?username=stevenayal&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
+Apasionado por la calidad del software, la educación tech y la comunidad de testing en Latinoamérica. Creo herramientas y contenido para democratizar el acceso al conocimiento de QA en español.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stevenayal&theme=darcula&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+---
 
-![stevenayal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenayal&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-<!--
-**stevenayal/stevenayal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Stack & Skills
 
-Here are some ideas to get you started:
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏗️ Proyectos
+
+| Proyecto | Descripción |
+|----------|-------------|
+| [**AIQUAA**](https://aiquaa.com) | Plataforma de herramientas y comunidad QA para Paraguay y Latinoamérica |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stevenayal&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenayal&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="150" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=stevenayal&theme=darcula&locale=es&date_format=j%20M%5B%20Y%5D" />
+  </a>
+</p>
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-stevenayal-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/stevenayal/)
+[![Dev.to](https://img.shields.io/badge/dev.to-stevenayal-0A0A0A?style=flat&logo=devdotto)](https://dev.to/stevenayal)
+[![AIQUAA](https://img.shields.io/badge/AIQUAA-aiquaa.com-10b981?style=flat)](https://aiquaa.com)
