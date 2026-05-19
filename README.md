@@ -29,17 +29,15 @@ Apasionado por la calidad del software, la educación tech y la comunidad de tes
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stevenayal&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenayal&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="150" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=stevenayal&theme=darcula&locale=es&date_format=j%20M%5B%20Y%5D" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=stevenayal&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenayal&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" />
 </p>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=stevenayal&theme=tokyonight&locale=es&date_format=j%20M%5B%20Y%5D&hide_border=true" />
+</p>
 ---
 
 ## 📫 Contacto
