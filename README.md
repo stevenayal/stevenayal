@@ -30,10 +30,6 @@ Apasionado por la calidad del software, la educación tech y la comunidad de tes
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-statss-seven-psi.vercel.app/api?username=stevenayal&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-statss-seven-psi.vercel.app/api/top-langs/?username=stevenayal&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=stevenayal&theme=tokyonight&locale=es&date_format=j%20M%5B%20Y%5D&hide_border=true" />
 </p>
 
